@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Developed by: Michael Adebayo Fatoye - Student ID: S1718017-->
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/roboto_black</item>
+        <item>@font/roboto_bold</item>
+    </array>
+</resources>
